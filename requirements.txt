@@ -1,0 +1,12 @@
+langchain
+python-dotenv
+langchain-google-genai
+langchain-community
+langchain_experimental
+streamlit
+langchain-core
+BeautifulSoup4
+faiss-cpu
+unstructured
+python-magic-bin==0.4.14
+tabulate

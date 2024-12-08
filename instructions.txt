@@ -1,0 +1,6 @@
+Create vartual env with python 3.11.7
+python -m venv .chatbotappenv 
+.\.chatbotappenv\Scripts\activate
+
+run pip install -r requirements.txt 
+
